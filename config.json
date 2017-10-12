@@ -1,0 +1,15 @@
+{
+    "title": "New My Project",
+    "baseURL": "https:\/\/new.tvpage.com\/newtest",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/newtest",
+        "firstpartycookies": false,
+        "cookiedomain": "tvpage.com"
+    }
+}
